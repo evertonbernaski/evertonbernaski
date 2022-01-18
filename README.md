@@ -1,4 +1,4 @@
-### Sou Everton Bernaski, desenvolvedor e entusiasta de técnologia.
+### Desenvolvedor e entusiasta de técnologia.
 
 - 🔭 Hoje trabalho com back-end usando Java.
 - 🌱 Atualmente estou estudando para me especializar em Java.
